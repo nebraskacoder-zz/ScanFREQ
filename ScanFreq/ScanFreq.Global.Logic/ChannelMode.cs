@@ -1,9 +1,9 @@
-﻿namespace RadioProjects.Astro25.Logic
+﻿namespace ScanFreq.Global.Logic
 {
     /// <summary>
-    /// Talkgroup Modes: This tells what kind of traffic (mode) the talkgroup contains.
+    /// Channel Modes: This tells what kind of traffic (mode) the channel contains.
     /// </summary>
-    public enum TalkgroupMode
+    public enum ChannelMode
     {
         Analog,
         Digital,
